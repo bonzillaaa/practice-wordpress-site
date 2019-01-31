@@ -1,0 +1,138 @@
+[INFO]-[2019/01/31 16:23:20] DB Copy: Creating table wpstg0_commentmeta
+[INFO]-[2019/01/31 16:23:20] DB Copy: Creating table wpstg0_commentmeta
+[INFO]-[2019/01/31 16:23:21] DB Copy: Creating table wpstg0_comments
+[INFO]-[2019/01/31 16:23:21] DB Copy: wp_comments as wpstg0_comments from 0 to 10000 records
+[INFO]-[2019/01/31 16:23:21] DB Copy: Creating table wpstg0_comments
+[INFO]-[2019/01/31 16:23:21] DB Copy: wp_comments as wpstg0_comments from 0 to 10000 records
+[INFO]-[2019/01/31 16:23:21] DB Copy: Creating table wpstg0_frm_fields
+[INFO]-[2019/01/31 16:23:21] DB Copy: wp_frm_fields as wpstg0_frm_fields from 0 to 10000 records
+[INFO]-[2019/01/31 16:23:21] DB Copy: Creating table wpstg0_frm_fields
+[INFO]-[2019/01/31 16:23:21] DB Copy: wp_frm_fields as wpstg0_frm_fields from 0 to 10000 records
+[INFO]-[2019/01/31 16:23:22] DB Copy: Creating table wpstg0_frm_forms
+[INFO]-[2019/01/31 16:23:22] DB Copy: wp_frm_forms as wpstg0_frm_forms from 0 to 10000 records
+[INFO]-[2019/01/31 16:23:22] DB Copy: Creating table wpstg0_frm_forms
+[INFO]-[2019/01/31 16:23:22] DB Copy: wp_frm_forms as wpstg0_frm_forms from 0 to 10000 records
+[INFO]-[2019/01/31 16:23:22] DB Copy: Creating table wpstg0_frm_item_metas
+[INFO]-[2019/01/31 16:23:22] DB Copy: wp_frm_item_metas as wpstg0_frm_item_metas from 0 to 10000 records
+[INFO]-[2019/01/31 16:23:22] DB Copy: Creating table wpstg0_frm_item_metas
+[INFO]-[2019/01/31 16:23:22] DB Copy: wp_frm_item_metas as wpstg0_frm_item_metas from 0 to 10000 records
+[INFO]-[2019/01/31 16:23:22] DB Copy: Creating table wpstg0_frm_items
+[INFO]-[2019/01/31 16:23:22] DB Copy: wp_frm_items as wpstg0_frm_items from 0 to 10000 records
+[INFO]-[2019/01/31 16:23:22] DB Copy: Creating table wpstg0_frm_items
+[INFO]-[2019/01/31 16:23:22] DB Copy: wp_frm_items as wpstg0_frm_items from 0 to 10000 records
+[INFO]-[2019/01/31 16:23:23] DB Copy: Creating table wpstg0_links
+[INFO]-[2019/01/31 16:23:23] DB Copy: Creating table wpstg0_links
+[INFO]-[2019/01/31 16:23:23] DB Copy: Creating table wpstg0_options
+[INFO]-[2019/01/31 16:23:23] DB Copy: wp_options as wpstg0_options from 0 to 10000 records
+[INFO]-[2019/01/31 16:23:23] DB Copy: Creating table wpstg0_options
+[INFO]-[2019/01/31 16:23:23] DB Copy: wp_options as wpstg0_options from 0 to 10000 records
+[INFO]-[2019/01/31 16:23:23] DB Copy: Creating table wpstg0_postmeta
+[INFO]-[2019/01/31 16:23:24] DB Copy: wp_postmeta as wpstg0_postmeta from 0 to 10000 records
+[INFO]-[2019/01/31 16:23:23] DB Copy: Creating table wpstg0_postmeta
+[INFO]-[2019/01/31 16:23:24] DB Copy: wp_postmeta as wpstg0_postmeta from 0 to 10000 records
+[INFO]-[2019/01/31 16:23:24] DB Copy: Creating table wpstg0_posts
+[INFO]-[2019/01/31 16:23:24] DB Copy: wp_posts as wpstg0_posts from 0 to 10000 records
+[INFO]-[2019/01/31 16:23:24] DB Copy: Creating table wpstg0_posts
+[INFO]-[2019/01/31 16:23:24] DB Copy: wp_posts as wpstg0_posts from 0 to 10000 records
+[INFO]-[2019/01/31 16:23:24] DB Copy: Creating table wpstg0_term_relationships
+[INFO]-[2019/01/31 16:23:24] DB Copy: wp_term_relationships as wpstg0_term_relationships from 0 to 10000 records
+[INFO]-[2019/01/31 16:23:24] DB Copy: Creating table wpstg0_term_relationships
+[INFO]-[2019/01/31 16:23:24] DB Copy: wp_term_relationships as wpstg0_term_relationships from 0 to 10000 records
+[INFO]-[2019/01/31 16:23:25] DB Copy: Creating table wpstg0_term_taxonomy
+[INFO]-[2019/01/31 16:23:25] DB Copy: wp_term_taxonomy as wpstg0_term_taxonomy from 0 to 10000 records
+[INFO]-[2019/01/31 16:23:25] DB Copy: Creating table wpstg0_term_taxonomy
+[INFO]-[2019/01/31 16:23:25] DB Copy: wp_term_taxonomy as wpstg0_term_taxonomy from 0 to 10000 records
+[INFO]-[2019/01/31 16:23:25] DB Copy: Creating table wpstg0_termmeta
+[INFO]-[2019/01/31 16:23:25] DB Copy: Creating table wpstg0_termmeta
+[INFO]-[2019/01/31 16:23:25] DB Copy: Creating table wpstg0_terms
+[INFO]-[2019/01/31 16:23:25] DB Copy: wp_terms as wpstg0_terms from 0 to 10000 records
+[INFO]-[2019/01/31 16:23:25] DB Copy: Creating table wpstg0_terms
+[INFO]-[2019/01/31 16:23:25] DB Copy: wp_terms as wpstg0_terms from 0 to 10000 records
+[INFO]-[2019/01/31 16:23:26] DB Copy: Creating table wpstg0_usermeta
+[INFO]-[2019/01/31 16:23:26] DB Copy: wp_usermeta as wpstg0_usermeta from 0 to 10000 records
+[INFO]-[2019/01/31 16:23:26] DB Copy: Creating table wpstg0_usermeta
+[INFO]-[2019/01/31 16:23:26] DB Copy: wp_usermeta as wpstg0_usermeta from 0 to 10000 records
+[INFO]-[2019/01/31 16:23:26] DB Copy: Creating table wpstg0_users
+[INFO]-[2019/01/31 16:23:26] DB Copy: wp_users as wpstg0_users from 0 to 10000 records
+[INFO]-[2019/01/31 16:23:26] DB Copy: Creating table wpstg0_users
+[INFO]-[2019/01/31 16:23:26] DB Copy: wp_users as wpstg0_users from 0 to 10000 records
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[INFO]-[2019/01/31 16:23:27] DB Processing:  Table wpstg0_comments 0 to 5000 records
+[INFO]-[2019/01/31 16:23:27] DB Processing:  Table wpstg0_comments 0 to 5000 records
+[INFO]-[2019/01/31 16:23:28] DB Processing:  Table wpstg0_frm_fields 0 to 5000 records
+[INFO]-[2019/01/31 16:23:28] DB Processing:  Table wpstg0_frm_fields 0 to 5000 records
+[INFO]-[2019/01/31 16:23:28] DB Processing:  Table wpstg0_frm_forms 0 to 5000 records
+[INFO]-[2019/01/31 16:23:28] DB Processing:  Table wpstg0_frm_forms 0 to 5000 records
+[INFO]-[2019/01/31 16:23:28] DB Processing:  Table wpstg0_frm_item_metas 0 to 5000 records
+[INFO]-[2019/01/31 16:23:28] DB Processing:  Table wpstg0_frm_item_metas 0 to 5000 records
+[INFO]-[2019/01/31 16:23:29] DB Processing:  Table wpstg0_frm_items 0 to 5000 records
+[INFO]-[2019/01/31 16:23:29] DB Processing:  Table wpstg0_frm_items 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2019/01/31 16:23:29] DB Processing:  Table wpstg0_options 0 to 5000 records
+[INFO]-[2019/01/31 16:23:29] DB Processing:  Table wpstg0_options 0 to 5000 records
+[INFO]-[2019/01/31 16:23:30] DB Processing:  Table wpstg0_postmeta 0 to 5000 records
+[INFO]-[2019/01/31 16:23:30] DB Processing:  Table wpstg0_postmeta 0 to 5000 records
+[INFO]-[2019/01/31 16:23:30] DB Processing:  Table wpstg0_posts 0 to 5000 records
+[INFO]-[2019/01/31 16:23:30] DB Processing:  Table wpstg0_posts 0 to 5000 records
+[INFO]-[2019/01/31 16:23:31] DB Processing:  Table wpstg0_term_relationships 0 to 5000 records
+[INFO]-[2019/01/31 16:23:31] DB Processing:  Table wpstg0_term_relationships 0 to 5000 records
+[INFO]-[2019/01/31 16:23:31] DB Processing:  Table wpstg0_term_taxonomy 0 to 5000 records
+[INFO]-[2019/01/31 16:23:31] DB Processing:  Table wpstg0_term_taxonomy 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2019/01/31 16:23:32] DB Processing:  Table wpstg0_terms 0 to 5000 records
+[INFO]-[2019/01/31 16:23:32] DB Processing:  Table wpstg0_terms 0 to 5000 records
+[INFO]-[2019/01/31 16:23:32] DB Processing:  Table wpstg0_usermeta 0 to 5000 records
+[INFO]-[2019/01/31 16:23:32] DB Processing:  Table wpstg0_usermeta 0 to 5000 records
+[INFO]-[2019/01/31 16:23:32] DB Processing:  Table wpstg0_users 0 to 5000 records
+[INFO]-[2019/01/31 16:23:32] DB Processing:  Table wpstg0_users 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2019/01/31 16:23:33] Scanning / for files
+[INFO]-[2019/01/31 16:23:33] Scanning / for files
+[INFO]-[2019/01/31 16:23:33] Scanning wp-content folder /Users/mac/Desktop/sites/wordpress/wp-content
+[INFO]-[2019/01/31 16:23:33] Scanning wp-content folder /Users/mac/Desktop/sites/wordpress/wp-content
+[INFO]-[2019/01/31 16:23:34] Scanning /wp-includes for its sub-directories and files
+[INFO]-[2019/01/31 16:23:34] Scanning /wp-includes for its sub-directories and files
+[INFO]-[2019/01/31 16:23:34] Scanning /wp-admin for its sub-directories and files
+[INFO]-[2019/01/31 16:23:34] Scanning /wp-admin for its sub-directories and files
+[INFO]-[2019/01/31 16:23:35] Copying files...
+[INFO]-[2019/01/31 16:23:35] Total 50 files processed
+[INFO]-[2019/01/31 16:23:35] Copying files...
+[INFO]-[2019/01/31 16:23:35] Total 50 files processed
+[INFO]-[2019/01/31 16:23:36] Total 100 files processed
+[INFO]-[2019/01/31 16:23:36] Total 100 files processed
+[INFO]-[2019/01/31 16:23:37] Total 150 files processed
+[INFO]-[2019/01/31 16:23:37] Total 150 files processed
+[INFO]-[2019/01/31 16:23:38] Total 200 files processed
+[INFO]-[2019/01/31 16:23:38] Total 200 files processed
+[INFO]-[2019/01/31 16:23:39] Total 250 files processed
+[INFO]-[2019/01/31 16:23:39] Total 250 files processed
+[INFO]-[2019/01/31 16:23:40] Total 300 files processed
+[INFO]-[2019/01/31 16:23:40] Total 300 files processed
+[INFO]-[2019/01/31 16:23:40] Total 350 files processed
+[INFO]-[2019/01/31 16:23:40] Total 350 files processed
+[INFO]-[2019/01/31 16:23:40] Total 400 files processed
+[INFO]-[2019/01/31 16:23:40] Total 400 files processed
+[INFO]-[2019/01/31 16:23:41] Total 450 files processed
+[INFO]-[2019/01/31 16:23:41] Total 450 files processed
+[INFO]-[2019/01/31 16:23:42] Total 500 files processed
+[INFO]-[2019/01/31 16:23:42] Total 500 files processed
+[INFO]-[2019/01/31 16:23:42] Total 550 files processed
+[INFO]-[2019/01/31 16:23:42] Total 550 files processed
+[INFO]-[2019/01/31 16:23:43] Total 600 files processed
+[INFO]-[2019/01/31 16:23:43] Total 600 files processed
+[INFO]-[2019/01/31 16:23:44] Total 650 files processed
+[INFO]-[2019/01/31 16:23:44] Total 650 files processed
+[INFO]-[2019/01/31 16:23:45] Total 700 files processed
+[INFO]-[2019/01/31 16:23:45] Total 700 files processed
+[INFO]-[2019/01/31 16:23:45] Total 750 files processed
+[INFO]-[2019/01/31 16:23:45] Total 750 files processed
+[INFO]-[2019/01/31 16:23:46] Total 800 files processed
+[INFO]-[2019/01/31 16:23:46] Total 800 files processed
+[INFO]-[2019/01/31 16:23:47] Total 850 files processed
+[INFO]-[2019/01/31 16:23:47] Total 850 files processed

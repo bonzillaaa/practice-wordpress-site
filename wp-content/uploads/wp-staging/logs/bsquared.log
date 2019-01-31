@@ -1,0 +1,284 @@
+[INFO]-[2019/01/31 16:23:20] DB Copy: Creating table wpstg0_commentmeta
+[INFO]-[2019/01/31 16:23:20] DB Copy: Creating table wpstg0_commentmeta
+[INFO]-[2019/01/31 16:23:21] DB Copy: Creating table wpstg0_comments
+[INFO]-[2019/01/31 16:23:21] DB Copy: wp_comments as wpstg0_comments from 0 to 10000 records
+[INFO]-[2019/01/31 16:23:21] DB Copy: Creating table wpstg0_comments
+[INFO]-[2019/01/31 16:23:21] DB Copy: wp_comments as wpstg0_comments from 0 to 10000 records
+[INFO]-[2019/01/31 16:23:21] DB Copy: Creating table wpstg0_frm_fields
+[INFO]-[2019/01/31 16:23:21] DB Copy: wp_frm_fields as wpstg0_frm_fields from 0 to 10000 records
+[INFO]-[2019/01/31 16:23:21] DB Copy: Creating table wpstg0_frm_fields
+[INFO]-[2019/01/31 16:23:21] DB Copy: wp_frm_fields as wpstg0_frm_fields from 0 to 10000 records
+[INFO]-[2019/01/31 16:23:22] DB Copy: Creating table wpstg0_frm_forms
+[INFO]-[2019/01/31 16:23:22] DB Copy: wp_frm_forms as wpstg0_frm_forms from 0 to 10000 records
+[INFO]-[2019/01/31 16:23:22] DB Copy: Creating table wpstg0_frm_forms
+[INFO]-[2019/01/31 16:23:22] DB Copy: wp_frm_forms as wpstg0_frm_forms from 0 to 10000 records
+[INFO]-[2019/01/31 16:23:22] DB Copy: Creating table wpstg0_frm_item_metas
+[INFO]-[2019/01/31 16:23:22] DB Copy: wp_frm_item_metas as wpstg0_frm_item_metas from 0 to 10000 records
+[INFO]-[2019/01/31 16:23:22] DB Copy: Creating table wpstg0_frm_item_metas
+[INFO]-[2019/01/31 16:23:22] DB Copy: wp_frm_item_metas as wpstg0_frm_item_metas from 0 to 10000 records
+[INFO]-[2019/01/31 16:23:22] DB Copy: Creating table wpstg0_frm_items
+[INFO]-[2019/01/31 16:23:22] DB Copy: wp_frm_items as wpstg0_frm_items from 0 to 10000 records
+[INFO]-[2019/01/31 16:23:22] DB Copy: Creating table wpstg0_frm_items
+[INFO]-[2019/01/31 16:23:22] DB Copy: wp_frm_items as wpstg0_frm_items from 0 to 10000 records
+[INFO]-[2019/01/31 16:23:23] DB Copy: Creating table wpstg0_links
+[INFO]-[2019/01/31 16:23:23] DB Copy: Creating table wpstg0_links
+[INFO]-[2019/01/31 16:23:23] DB Copy: Creating table wpstg0_options
+[INFO]-[2019/01/31 16:23:23] DB Copy: wp_options as wpstg0_options from 0 to 10000 records
+[INFO]-[2019/01/31 16:23:23] DB Copy: Creating table wpstg0_options
+[INFO]-[2019/01/31 16:23:23] DB Copy: wp_options as wpstg0_options from 0 to 10000 records
+[INFO]-[2019/01/31 16:23:23] DB Copy: Creating table wpstg0_postmeta
+[INFO]-[2019/01/31 16:23:24] DB Copy: wp_postmeta as wpstg0_postmeta from 0 to 10000 records
+[INFO]-[2019/01/31 16:23:23] DB Copy: Creating table wpstg0_postmeta
+[INFO]-[2019/01/31 16:23:24] DB Copy: wp_postmeta as wpstg0_postmeta from 0 to 10000 records
+[INFO]-[2019/01/31 16:23:24] DB Copy: Creating table wpstg0_posts
+[INFO]-[2019/01/31 16:23:24] DB Copy: wp_posts as wpstg0_posts from 0 to 10000 records
+[INFO]-[2019/01/31 16:23:24] DB Copy: Creating table wpstg0_posts
+[INFO]-[2019/01/31 16:23:24] DB Copy: wp_posts as wpstg0_posts from 0 to 10000 records
+[INFO]-[2019/01/31 16:23:24] DB Copy: Creating table wpstg0_term_relationships
+[INFO]-[2019/01/31 16:23:24] DB Copy: wp_term_relationships as wpstg0_term_relationships from 0 to 10000 records
+[INFO]-[2019/01/31 16:23:24] DB Copy: Creating table wpstg0_term_relationships
+[INFO]-[2019/01/31 16:23:24] DB Copy: wp_term_relationships as wpstg0_term_relationships from 0 to 10000 records
+[INFO]-[2019/01/31 16:23:25] DB Copy: Creating table wpstg0_term_taxonomy
+[INFO]-[2019/01/31 16:23:25] DB Copy: wp_term_taxonomy as wpstg0_term_taxonomy from 0 to 10000 records
+[INFO]-[2019/01/31 16:23:25] DB Copy: Creating table wpstg0_term_taxonomy
+[INFO]-[2019/01/31 16:23:25] DB Copy: wp_term_taxonomy as wpstg0_term_taxonomy from 0 to 10000 records
+[INFO]-[2019/01/31 16:23:25] DB Copy: Creating table wpstg0_termmeta
+[INFO]-[2019/01/31 16:23:25] DB Copy: Creating table wpstg0_termmeta
+[INFO]-[2019/01/31 16:23:25] DB Copy: Creating table wpstg0_terms
+[INFO]-[2019/01/31 16:23:25] DB Copy: wp_terms as wpstg0_terms from 0 to 10000 records
+[INFO]-[2019/01/31 16:23:25] DB Copy: Creating table wpstg0_terms
+[INFO]-[2019/01/31 16:23:25] DB Copy: wp_terms as wpstg0_terms from 0 to 10000 records
+[INFO]-[2019/01/31 16:23:26] DB Copy: Creating table wpstg0_usermeta
+[INFO]-[2019/01/31 16:23:26] DB Copy: wp_usermeta as wpstg0_usermeta from 0 to 10000 records
+[INFO]-[2019/01/31 16:23:26] DB Copy: Creating table wpstg0_usermeta
+[INFO]-[2019/01/31 16:23:26] DB Copy: wp_usermeta as wpstg0_usermeta from 0 to 10000 records
+[INFO]-[2019/01/31 16:23:26] DB Copy: Creating table wpstg0_users
+[INFO]-[2019/01/31 16:23:26] DB Copy: wp_users as wpstg0_users from 0 to 10000 records
+[INFO]-[2019/01/31 16:23:26] DB Copy: Creating table wpstg0_users
+[INFO]-[2019/01/31 16:23:26] DB Copy: wp_users as wpstg0_users from 0 to 10000 records
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[INFO]-[2019/01/31 16:23:27] DB Processing:  Table wpstg0_comments 0 to 5000 records
+[INFO]-[2019/01/31 16:23:27] DB Processing:  Table wpstg0_comments 0 to 5000 records
+[INFO]-[2019/01/31 16:23:28] DB Processing:  Table wpstg0_frm_fields 0 to 5000 records
+[INFO]-[2019/01/31 16:23:28] DB Processing:  Table wpstg0_frm_fields 0 to 5000 records
+[INFO]-[2019/01/31 16:23:28] DB Processing:  Table wpstg0_frm_forms 0 to 5000 records
+[INFO]-[2019/01/31 16:23:28] DB Processing:  Table wpstg0_frm_forms 0 to 5000 records
+[INFO]-[2019/01/31 16:23:28] DB Processing:  Table wpstg0_frm_item_metas 0 to 5000 records
+[INFO]-[2019/01/31 16:23:28] DB Processing:  Table wpstg0_frm_item_metas 0 to 5000 records
+[INFO]-[2019/01/31 16:23:29] DB Processing:  Table wpstg0_frm_items 0 to 5000 records
+[INFO]-[2019/01/31 16:23:29] DB Processing:  Table wpstg0_frm_items 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2019/01/31 16:23:29] DB Processing:  Table wpstg0_options 0 to 5000 records
+[INFO]-[2019/01/31 16:23:29] DB Processing:  Table wpstg0_options 0 to 5000 records
+[INFO]-[2019/01/31 16:23:30] DB Processing:  Table wpstg0_postmeta 0 to 5000 records
+[INFO]-[2019/01/31 16:23:30] DB Processing:  Table wpstg0_postmeta 0 to 5000 records
+[INFO]-[2019/01/31 16:23:30] DB Processing:  Table wpstg0_posts 0 to 5000 records
+[INFO]-[2019/01/31 16:23:30] DB Processing:  Table wpstg0_posts 0 to 5000 records
+[INFO]-[2019/01/31 16:23:31] DB Processing:  Table wpstg0_term_relationships 0 to 5000 records
+[INFO]-[2019/01/31 16:23:31] DB Processing:  Table wpstg0_term_relationships 0 to 5000 records
+[INFO]-[2019/01/31 16:23:31] DB Processing:  Table wpstg0_term_taxonomy 0 to 5000 records
+[INFO]-[2019/01/31 16:23:31] DB Processing:  Table wpstg0_term_taxonomy 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2019/01/31 16:23:32] DB Processing:  Table wpstg0_terms 0 to 5000 records
+[INFO]-[2019/01/31 16:23:32] DB Processing:  Table wpstg0_terms 0 to 5000 records
+[INFO]-[2019/01/31 16:23:32] DB Processing:  Table wpstg0_usermeta 0 to 5000 records
+[INFO]-[2019/01/31 16:23:32] DB Processing:  Table wpstg0_usermeta 0 to 5000 records
+[INFO]-[2019/01/31 16:23:32] DB Processing:  Table wpstg0_users 0 to 5000 records
+[INFO]-[2019/01/31 16:23:32] DB Processing:  Table wpstg0_users 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2019/01/31 16:23:33] Scanning / for files
+[INFO]-[2019/01/31 16:23:33] Scanning / for files
+[INFO]-[2019/01/31 16:23:33] Scanning wp-content folder /Users/mac/Desktop/sites/wordpress/wp-content
+[INFO]-[2019/01/31 16:23:33] Scanning wp-content folder /Users/mac/Desktop/sites/wordpress/wp-content
+[INFO]-[2019/01/31 16:23:34] Scanning /wp-includes for its sub-directories and files
+[INFO]-[2019/01/31 16:23:34] Scanning /wp-includes for its sub-directories and files
+[INFO]-[2019/01/31 16:23:34] Scanning /wp-admin for its sub-directories and files
+[INFO]-[2019/01/31 16:23:34] Scanning /wp-admin for its sub-directories and files
+[INFO]-[2019/01/31 16:23:35] Copying files...
+[INFO]-[2019/01/31 16:23:35] Total 50 files processed
+[INFO]-[2019/01/31 16:23:35] Copying files...
+[INFO]-[2019/01/31 16:23:35] Total 50 files processed
+[INFO]-[2019/01/31 16:23:36] Total 100 files processed
+[INFO]-[2019/01/31 16:23:36] Total 100 files processed
+[INFO]-[2019/01/31 16:23:37] Total 150 files processed
+[INFO]-[2019/01/31 16:23:37] Total 150 files processed
+[INFO]-[2019/01/31 16:23:38] Total 200 files processed
+[INFO]-[2019/01/31 16:23:38] Total 200 files processed
+[INFO]-[2019/01/31 16:23:39] Total 250 files processed
+[INFO]-[2019/01/31 16:23:39] Total 250 files processed
+[INFO]-[2019/01/31 16:23:40] Total 300 files processed
+[INFO]-[2019/01/31 16:23:40] Total 300 files processed
+[INFO]-[2019/01/31 16:23:40] Total 350 files processed
+[INFO]-[2019/01/31 16:23:40] Total 350 files processed
+[INFO]-[2019/01/31 16:23:40] Total 400 files processed
+[INFO]-[2019/01/31 16:23:40] Total 400 files processed
+[INFO]-[2019/01/31 16:23:41] Total 450 files processed
+[INFO]-[2019/01/31 16:23:41] Total 450 files processed
+[INFO]-[2019/01/31 16:23:42] Total 500 files processed
+[INFO]-[2019/01/31 16:23:42] Total 500 files processed
+[INFO]-[2019/01/31 16:23:42] Total 550 files processed
+[INFO]-[2019/01/31 16:23:42] Total 550 files processed
+[INFO]-[2019/01/31 16:23:43] Total 600 files processed
+[INFO]-[2019/01/31 16:23:43] Total 600 files processed
+[INFO]-[2019/01/31 16:23:44] Total 650 files processed
+[INFO]-[2019/01/31 16:23:44] Total 650 files processed
+[INFO]-[2019/01/31 16:23:45] Total 700 files processed
+[INFO]-[2019/01/31 16:23:45] Total 700 files processed
+[INFO]-[2019/01/31 16:23:45] Total 750 files processed
+[INFO]-[2019/01/31 16:23:45] Total 750 files processed
+[INFO]-[2019/01/31 16:23:46] Total 800 files processed
+[INFO]-[2019/01/31 16:23:46] Total 800 files processed
+[INFO]-[2019/01/31 16:23:47] Total 850 files processed
+[INFO]-[2019/01/31 16:23:47] Total 850 files processed
+[INFO]-[2019/01/31 16:23:48] Total 900 files processed
+[INFO]-[2019/01/31 16:23:48] Total 900 files processed
+[INFO]-[2019/01/31 16:23:49] Total 950 files processed
+[INFO]-[2019/01/31 16:23:49] Total 950 files processed
+[INFO]-[2019/01/31 16:23:49] Total 1000 files processed
+[INFO]-[2019/01/31 16:23:49] Total 1000 files processed
+[INFO]-[2019/01/31 16:23:50] Total 1050 files processed
+[INFO]-[2019/01/31 16:23:50] Total 1050 files processed
+[INFO]-[2019/01/31 16:23:51] Total 1100 files processed
+[INFO]-[2019/01/31 16:23:51] Total 1100 files processed
+[INFO]-[2019/01/31 16:23:52] Total 1150 files processed
+[INFO]-[2019/01/31 16:23:52] Total 1150 files processed
+[INFO]-[2019/01/31 16:23:53] Total 1200 files processed
+[INFO]-[2019/01/31 16:23:53] Total 1200 files processed
+[INFO]-[2019/01/31 16:23:54] Total 1250 files processed
+[INFO]-[2019/01/31 16:23:54] Total 1250 files processed
+[INFO]-[2019/01/31 16:23:55] Total 1300 files processed
+[INFO]-[2019/01/31 16:23:55] Total 1300 files processed
+[INFO]-[2019/01/31 16:23:57] Total 1350 files processed
+[INFO]-[2019/01/31 16:23:57] Total 1350 files processed
+[INFO]-[2019/01/31 16:23:59] Total 1400 files processed
+[INFO]-[2019/01/31 16:23:59] Total 1400 files processed
+[INFO]-[2019/01/31 16:24:01] Total 1450 files processed
+[INFO]-[2019/01/31 16:24:01] Total 1450 files processed
+[INFO]-[2019/01/31 16:24:02] Total 1500 files processed
+[INFO]-[2019/01/31 16:24:02] Total 1500 files processed
+[INFO]-[2019/01/31 16:24:04] Total 1550 files processed
+[INFO]-[2019/01/31 16:24:04] Total 1550 files processed
+[INFO]-[2019/01/31 16:24:05] Total 1600 files processed
+[INFO]-[2019/01/31 16:24:05] Total 1600 files processed
+[INFO]-[2019/01/31 16:24:06] Total 1650 files processed
+[INFO]-[2019/01/31 16:24:06] Total 1650 files processed
+[INFO]-[2019/01/31 16:24:07] Total 1700 files processed
+[INFO]-[2019/01/31 16:24:07] Total 1700 files processed
+[INFO]-[2019/01/31 16:24:08] Total 1750 files processed
+[INFO]-[2019/01/31 16:24:08] Total 1750 files processed
+[INFO]-[2019/01/31 16:24:09] Total 1800 files processed
+[INFO]-[2019/01/31 16:24:09] Total 1800 files processed
+[INFO]-[2019/01/31 16:24:10] Total 1850 files processed
+[INFO]-[2019/01/31 16:24:10] Total 1850 files processed
+[INFO]-[2019/01/31 16:24:10] Total 1900 files processed
+[INFO]-[2019/01/31 16:24:10] Total 1900 files processed
+[INFO]-[2019/01/31 16:24:12] Total 1950 files processed
+[INFO]-[2019/01/31 16:24:12] Total 1950 files processed
+[INFO]-[2019/01/31 16:24:13] Total 2000 files processed
+[INFO]-[2019/01/31 16:24:13] Total 2000 files processed
+[INFO]-[2019/01/31 16:24:14] Total 2050 files processed
+[INFO]-[2019/01/31 16:24:14] Total 2050 files processed
+[INFO]-[2019/01/31 16:24:15] Total 2100 files processed
+[INFO]-[2019/01/31 16:24:15] Total 2100 files processed
+[INFO]-[2019/01/31 16:24:16] Total 2150 files processed
+[INFO]-[2019/01/31 16:24:16] Total 2150 files processed
+[INFO]-[2019/01/31 16:24:17] Total 2200 files processed
+[INFO]-[2019/01/31 16:24:17] Total 2200 files processed
+[INFO]-[2019/01/31 16:24:18] Total 2250 files processed
+[INFO]-[2019/01/31 16:24:18] Total 2250 files processed
+[INFO]-[2019/01/31 16:24:19] Total 2300 files processed
+[INFO]-[2019/01/31 16:24:19] Total 2300 files processed
+[INFO]-[2019/01/31 16:24:20] Total 2350 files processed
+[INFO]-[2019/01/31 16:24:20] Total 2350 files processed
+[INFO]-[2019/01/31 16:24:21] Total 2400 files processed
+[INFO]-[2019/01/31 16:24:21] Total 2400 files processed
+[WARNING]-[2019/01/31 16:24:22] File doesn't exist /Users/mac/Desktop/sites/wordpress/
+[WARNING]-[2019/01/31 16:24:22] File doesn't exist /Users/mac/Desktop/sites/wordpress/
+[INFO]-[2019/01/31 16:24:23] Copying files finished
+[INFO]-[2019/01/31 16:24:23] Copying files finished
+[INFO]-[2019/01/31 16:24:23] Preparing Data Step0: Check if wp-config.php is located in root path
+[INFO]-[2019/01/31 16:24:23] Preparing Data Step0: Skip it
+[INFO]-[2019/01/31 16:24:23] Preparing Data Step0: Check if wp-config.php is located in root path
+[INFO]-[2019/01/31 16:24:23] Preparing Data Step0: Skip it
+[INFO]-[2019/01/31 16:24:24] Preparing Data Step1: Updating siteurl and homeurl in wpstg0_options 
+[INFO]-[2019/01/31 16:24:24] Preparing Data Step1: Updating siteurl and homeurl to http://localhost:8888/wordpress/bsquared
+[INFO]-[2019/01/31 16:24:24] Preparing Data Step1: Updating siteurl and homeurl in wpstg0_options 
+[INFO]-[2019/01/31 16:24:24] Preparing Data Step1: Updating siteurl and homeurl to http://localhost:8888/wordpress/bsquared
+[INFO]-[2019/01/31 16:24:24] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg0_options 
+[INFO]-[2019/01/31 16:24:24] Preparing Data Step2: Successfull
+[INFO]-[2019/01/31 16:24:24] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg0_options 
+[INFO]-[2019/01/31 16:24:24] Preparing Data Step2: Successfull
+[INFO]-[2019/01/31 16:24:25] Preparing Data Step3: Updating rewrite_rules in wpstg0_options 
+[INFO]-[2019/01/31 16:24:25] Preparing Data Step3: Updating rewrite_rules in wpstg0_options 
+[INFO]-[2019/01/31 16:24:26] Preparing Data Step4: Updating db prefix in wpstg0_usermeta. 
+[INFO]-[2019/01/31 16:24:26] Preparing Data Step4: Updating db prefix in wpstg0_usermeta. 
+[INFO]-[2019/01/31 16:24:26] Preparing Data Step5: Updating table_prefix in /Users/mac/Desktop/sites/wordpress/bsquared/wp-config.php to wpstg0_
+[INFO]-[2019/01/31 16:24:26] Preparing Data Step5: Updating table_prefix in /Users/mac/Desktop/sites/wordpress/bsquared/wp-config.php to wpstg0_
+[]-[] 
+[]-[] 
+[INFO]-[2019/01/31 16:24:28] Preparing Data Step7: Updating wpstg_rmpermalinks_executed in wpstg0_options 
+[WARNING]-[2019/01/31 16:24:28] Failed to update wpstg_rmpermalinks_executed in wpstg0_options 
+[INFO]-[2019/01/31 16:24:28] Preparing Data Step7: Updating wpstg_rmpermalinks_executed in wpstg0_options 
+[WARNING]-[2019/01/31 16:24:28] Failed to update wpstg_rmpermalinks_executed in wpstg0_options 
+[INFO]-[2019/01/31 16:24:29] Preparing Data Step8: Updating permalink_structure in wpstg0_options 
+[INFO]-[2019/01/31 16:24:29] Preparing Data Step8: Finished successfully
+[INFO]-[2019/01/31 16:24:29] Preparing Data Step8: Updating permalink_structure in wpstg0_options 
+[INFO]-[2019/01/31 16:24:29] Preparing Data Step8: Finished successfully
+[INFO]-[2019/01/31 16:24:29] Preparing Data Step9: Set staging site to noindex
+[INFO]-[2019/01/31 16:24:29] Preparing Data Step9: Finished successfully
+[INFO]-[2019/01/31 16:24:29] Preparing Data Step9: Set staging site to noindex
+[INFO]-[2019/01/31 16:24:29] Preparing Data Step9: Finished successfully
+[INFO]-[2019/01/31 16:24:30] Preparing Data Step10: Updating WP_HOME in wp-config.php to http://localhost:8888/wordpress/bsquared
+[INFO]-[2019/01/31 16:24:30] Preparing Data Step10: WP_HOME not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/01/31 16:24:30] Preparing Data Step 10: Finished successfully
+[INFO]-[2019/01/31 16:24:30] Preparing Data Step10: Updating WP_HOME in wp-config.php to http://localhost:8888/wordpress/bsquared
+[INFO]-[2019/01/31 16:24:30] Preparing Data Step10: WP_HOME not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/01/31 16:24:30] Preparing Data Step 10: Finished successfully
+[INFO]-[2019/01/31 16:24:31] Preparing Data Step11: Updating WP_SITEURL in wp-config.php to http://localhost:8888/wordpress/bsquared
+[INFO]-[2019/01/31 16:24:31] Preparing Data Step11: WP_SITEURL not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/01/31 16:24:31] Preparing Data Step 11: Finished successfully
+[INFO]-[2019/01/31 16:24:31] Preparing Data Step11: Updating WP_SITEURL in wp-config.php to http://localhost:8888/wordpress/bsquared
+[INFO]-[2019/01/31 16:24:31] Preparing Data Step11: WP_SITEURL not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/01/31 16:24:31] Preparing Data Step 11: Finished successfully
+[INFO]-[2019/01/31 16:24:31] Preparing Data Step12: Updating db prefix in wpstg0_options.
+[INFO]-[2019/01/31 16:24:31] Preparing Data Step 12: Finished successfully
+[INFO]-[2019/01/31 16:24:31] Preparing Data Step12: Updating db prefix in wpstg0_options.
+[INFO]-[2019/01/31 16:24:31] Preparing Data Step 12: Finished successfully
+[INFO]-[2019/01/31 16:24:32] Preparing Data Step13: Updating upload_path wpstg0_options.
+[INFO]-[2019/01/31 16:24:32] Preparing Data Step13: Skipped
+[INFO]-[2019/01/31 16:24:32] Preparing Data Step13: Updating upload_path wpstg0_options.
+[INFO]-[2019/01/31 16:24:32] Preparing Data Step13: Skipped
+[INFO]-[2019/01/31 16:24:32] Preparing Data Step14: Set WP_CACHE in wp-config.php to false
+[INFO]-[2019/01/31 16:24:32] Preparing Data Step14: WP_CACHE not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/01/31 16:24:32] Preparing Data Step 14: Finished successfully
+[INFO]-[2019/01/31 16:24:32] Preparing Data Step14: Set WP_CACHE in wp-config.php to false
+[INFO]-[2019/01/31 16:24:32] Preparing Data Step14: WP_CACHE not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/01/31 16:24:32] Preparing Data Step 14: Finished successfully
+[INFO]-[2019/01/31 16:24:33] Preparing Data Step15: Set WP_CONTENT_DIR in wp-config.php to false
+[INFO]-[2019/01/31 16:24:33] Preparing Data Step15: WP_CONTENT_DIR not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/01/31 16:24:33] Preparing Data Step 15: Finished successfully
+[INFO]-[2019/01/31 16:24:33] Preparing Data Step15: Set WP_CONTENT_DIR in wp-config.php to false
+[INFO]-[2019/01/31 16:24:33] Preparing Data Step15: WP_CONTENT_DIR not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/01/31 16:24:33] Preparing Data Step 15: Finished successfully
+[INFO]-[2019/01/31 16:24:33] Preparing Data Step16: Set WP_CONTENT_URL in wp-config.php to false
+[INFO]-[2019/01/31 16:24:33] Preparing Data Step16: WP_CONTENT_URL not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/01/31 16:24:33] Preparing Data Step 16: Finished successfully
+[INFO]-[2019/01/31 16:24:33] Preparing Data Step16: Set WP_CONTENT_URL in wp-config.php to false
+[INFO]-[2019/01/31 16:24:33] Preparing Data Step16: WP_CONTENT_URL not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/01/31 16:24:33] Preparing Data Step 16: Finished successfully
+[]-[] 
+[]-[] 
+[INFO]-[2019/01/31 16:24:34] Finish: Deleting clone job's cache files...
+[INFO]-[2019/01/31 16:24:34] Finish: Clone job's cache files have been deleted!
+[INFO]-[2019/01/31 16:24:34] Finish: Verifying existing clones...
+[INFO]-[2019/01/31 16:24:34] Finish: bsquared's clone job's data is not in database, generating data
+[INFO]-[2019/01/31 16:24:34] Finish: Deleting clone job's cache files...
+[INFO]-[2019/01/31 16:24:34] Finish: Clone job's cache files have been deleted!
+[INFO]-[2019/01/31 16:24:34] Finish: Verifying existing clones...
+[INFO]-[2019/01/31 16:24:34] Finish: bsquared's clone job's data is not in database, generating data
